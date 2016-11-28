@@ -1,5 +1,6 @@
 //zmena smadas
 //zmena2 smadas
+//zmena pozdravzmarsu
 /*
 ******************************************************************************
 File:     main.c
